@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# React Native
+ios/build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+android/build/
+android/app/*.keystore
+android/app/src/main/jniLibs/
+android/app/src/debug/jniLibs/
+android/app/src/release/jniLibs/
+
+# Bundle artifacts
+*.jsbundle
+*.hmap
+*.ipa
+*.app
+*.xcworkspace
+
+# React Native CLI
+.env
+.env.*
+index.android.bundle
+index.ios.bundle
+
+# Metro
+.expo/
+
+# JetBrains IDEs
+.idea/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+
+# Editor
+.vscode/
+*.swp
+*~
+.project
+.cproject
