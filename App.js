@@ -43,7 +43,8 @@ function HomeStack() {
     </Stack.Navigator>
   );
 }
-console.log("dsadas")
+console.log("dadadadad")
+
 function App() {
   return (
     <NavigationContainer>
